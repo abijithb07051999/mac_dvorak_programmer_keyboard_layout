@@ -1,1 +1,1 @@
-sudo cp orginial_file.keylayout /Library/Keyboard\ Layout/
+sudo cp real_prog_dvorak.keylayout /Library/Keyboard\ Layout/
